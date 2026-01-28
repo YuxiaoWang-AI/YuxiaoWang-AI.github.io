@@ -52,6 +52,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- AAAI 2025 Oral -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 <strong style="color: red;">Oral</strong></div><img src='images/PIHOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Precision-Enhanced Human-Object Contact Detection via Depth-Aware Perspective Interaction and Object Texture Restoration](https://ojs.aaai.org/index.php/AAAI/article/view/32883)
+
+**Yuxiao Wang**, Wanying Neng, Zhen Wei, Yi Lei, Wentao Xue, Nan Zhuang, Yanwei Xu, Xin Jiang, Qi Liu*
+
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32883) | [**Code**](https://github.com/YuxiaoWang-AI/PIHOT)
+- We propose a depth-aware framework for human-object contact detection, achieving state-of-the-art performance on multiple benchmarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
