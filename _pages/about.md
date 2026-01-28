@@ -52,6 +52,47 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- AAAI 2026 - What-Meets-Where -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PaIR' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What-Meets-Where: Unified Learning of Action and Contact Localization in Images](https://arxiv.org/pdf/2508.09428)
+
+**Yuxiao Wang**, Yi Lei, Wenlu Liang, Wentao Xue, Zhen Wei, Nan Zhuang, Qiang Liu*
+
+[**Paper**](https://arxiv.org/pdf/2508.09428) | [**Code**](https://github.com/YuxiaoWang-AI/PaIR)
+-  we present PaIR (Partaware Interaction Representation) **dataset**, a comprehensive dataset
+containing 13,979 images that encompass 654 actions, 80 object categories, and 17 body parts.
+- We present a unified framework for jointly learning action recognition and contact localization in images.
+</div>
+</div>
+
+<!-- AAAI 2026 - QueryCraft -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/QueryCraft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[QueryCraft: Transformer-Guided Query Initialization for Enhanced Human-Object Interaction Detection](https://arxiv.org/pdf/2508.08590)
+
+**Yuxiao Wang†**, Wenlu Liang†, Yi Lei, Wentao Xue, Nan Zhuang, Qiang Liu*
+
+[**Paper**](https://arxiv.org/pdf/2508.08590) | [**Code**](https://github.com/YuxiaoWang-AI/QueryCraft)
+- We propose QueryCraft, a transformer-guided query initialization method for enhanced human-object interaction detection.
+</div>
+</div>
+
+<!-- ICCV 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/P3HOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630)
+
+**Yuxiao Wang**, Yi Lei, Zhen Wei, Wentao Xue, Nan Zhuang, Qiang Liu*
+
+[**Paper**](https://arxiv.org/pdf/2507.01630) | [**Code**](https://github.com/YuxiaoWang-AI/P3HOT)
+- We introduce prompt guidance and human proximal perception for human-object contact prediction, significantly improving detection accuracy.
+</div>
+</div>
+
 <!-- AAAI 2025 Oral -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 <strong style="color: red;">Oral</strong></div><img src='images/PIHOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,19 +106,82 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- AAAI 2025 Oral -->
+<!--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 <strong style="color: red;">Oral</strong></div><img src='images/LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LLM Agents Can Be Choice-Supportive Biased Evaluators: An Empirical Study](https://ojs.aaai.org/index.php/AAAI/article/view/34843)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Nan Zhuang, Boyu Cao, Yi Yang, Jing Xu, Mingda Xu, **Yuxiao Wang**, Qi Liu*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/34843)
+- This study is the first to thoroughly examine the choice-supportive bias in LLM agents, a cognitive bias that is known to impact human decisionmaking and evaluation.
+</div>
+</div>
+-->
+
+<!-- ICCVIT 2024 - Review -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVIT 2024</div><img src='images/HOI_Review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Review of Human-Object Interaction Detection](https://arxiv.org/pdf/2408.10641)
+
+**Yuxiao Wang**, Yi Lei, Linbo Cui, Wentao Xue, Qiang Liu, Zhen Wei*
+
+[**Paper**](https://arxiv.org/pdf/2408.10641)
+- We provide a comprehensive review of human-object interaction detection methods, covering datasets, evaluation metrics, and future directions.
 </div>
 </div>
 
+<!-- ICCBD+AI 2024 Best Paper -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCBD+AI 2024 Best Paper</div><img src='images/DeHOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection](https://drliuqi.github.io/files/publications/DeHOT.pdf)
+
+**Yuxiao Wang**, Yi Lei, Qianxi Xiong, Wentao Xue, Qiang Liu, Zhen Wei*
+
+🏆 **Best Paper Award**
+
+[**Paper**](https://drliuqi.github.io/files/publications/DeHOT.pdf)
+- We propose DeHOT for reconstructing pseudo-3D scenes to enhance human-object contact detection performance.
+</div>
+</div>
+
+<!-- IEEE TCSVT -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2024</div><img src='images/TED-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TED-Net: Dispersal Attention for Perceiving Interaction Region in Indirectly-Contact HOI Detection](https://ieeexplore.ieee.org/abstract/document/10415065)
+
+**Yuxiao Wang**, Qiang Liu*, Yi Lei
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10415065) | [**Code**](https://github.com/YuxiaoWang-AI/TED-Net)
+- We propose TED-Net with dispersal attention mechanism for indirectly-contact human-object interaction detection.
+</div>
+</div>
+
+<!-- Applied Intelligence -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence</div><img src='images/Capsule.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A General Multi-Scale Image Classification Based on Shared Conversion Matrix Routing](https://link.springer.com/article/10.1007/s10489-021-02558-1)
+
+**Yuxiao Wang**, Kang Li*, Yi Lei
+
+Applied Intelligence, 2022, 52(3): 3249-3265. **(SCI Q1)**
+
+[**Paper**](https://link.springer.com/article/10.1007/s10489-021-02558-1)
+- We propose a general multi-scale image classification method based on shared conversion matrix routing.
+</div>
+</div>
+
+
+
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
