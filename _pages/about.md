@@ -184,16 +184,33 @@ Applied Intelligence, 2022, 52(3): 3249-3265. **(SCI Q1)**
 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* National Scholarship (国家奖学金)
+- *2024.10* Presidential Scholarship of South China University of Technology (华南理工大学校长奖学金)
+- *2023.10* Presidential Scholarship of South China University of Technology (华南理工大学校长奖学金)
+- *2022.10* Presidential Scholarship of South China University of Technology (华南理工大学校长奖学金)
+- *2021.10* National First Prize in Mathorcup Big Data Competition (Graduate Division) (Mathorcup高校数学建模挑战赛大数据竞赛研究生组全国一等奖)
+- *2021.10* National First Prize in China Collegiate Big Data Challenge (Graduate Division) (中国高校大数据挑战赛研究生组全国一等奖)
+- *2019.06* Outstanding Graduate of Hebei Province (河北省高校优秀毕业生)
+- *2018.05* First Prize in Lanqiao Cup Programming Contest, Hebei Province (河北省蓝桥杯大赛一等奖)
+- *2017-2018* Provincial Merit Student of Hebei Province (河北省省级三好学生)
+- *2016-2017* National Scholarship (国家奖学金)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Ph.D. in Information and Communication Engineering, School of Future Technology, South China University of Technology, Guangzhou, China.
+  - Research Interests: Multimodal Learning, Human-Object Interaction Detection, Human-Object Contact Detection, Vision-Language Models (VLM)
+  - Supervisor: Prof. Qiang Liu
+- *2019.09 - 2022.06*, M.S. in Computer Technology, School of Cyber Security and Computer, Hebei University, Baoding, China.
+  - Research Interests: Computer Vision, Image Classification, Semantic Segmentation
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.11 - Present*, Algorithm Researcher, [Huawei Technologies Co., Ltd.](https://www.huawei.com/) (2012 Lab), Shenzhen, China.
+- *2025.07 - 2025.11*, Algorithm Engineer (Tech Lead), [Chuangxin International Biotechnology](https://www.bio-accurate.com/), Guangzhou, China.
+- *2024.07 - 2025.02*, Algorithm Engineer, [Caotuli Technology Co., Ltd.](https://intuly.com/), Guangzhou, China.
+- *2024.04 - 2024.07*, Algorithm Engineer, [Youmi Zhixing Technology Co., Ltd.](), Guangzhou, China.
+- *2021.06 - 2023.09*, Algorithm Intern, [Yibang (Beijing) Intelligent Technology Co., Ltd.](https://www.ebondhm.com/homePage), Beijing, China.
