@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiao Wang"
-description              : "Ph.D. Candidate at South China University of Technology | Multimodal Learning, VLM, Human-Object Interaction. "
+description              : "South China University of Technology"
 repository               : "YuxiaoWang-AI/YuxiaoWang-AI.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate"
   location         : "Guangzhou, China"
-  employer         : "South China University of Technology (华南理工大学)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IPlULwUAAAAJ&hl=zh-CN"
   email            : "ftwangyuxiao@mail.scut.edu.cn"
