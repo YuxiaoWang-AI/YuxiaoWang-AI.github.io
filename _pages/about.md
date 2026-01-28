@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <!-- AAAI 2026 - What-Meets-Where -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PaIR' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PaIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What-Meets-Where: Unified Learning of Action and Contact Localization in Images](https://arxiv.org/pdf/2508.09428)
