@@ -33,22 +33,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Congratulations! One papers have been accepted by ICASSP 2026 (CCF B)!
+- *2026.01*: &nbsp;🎉🎉 Congratulations! One papers have been accepted by <strong style="color: red;">ICASSP 2026 (CCF B)</strong>!
 - *2025.11*: &nbsp;🙋🙋 Congratulations! Selected as a volunteer for <strong style="color: red;">AAAI 2026</strong>!
-- *2025.11*: &nbsp;🎉🎉 Congratulations! Two papers have been accepted by AAAI 2026 (CCF A)!
-- *2025.06*: &nbsp;🎉🎉 Congratulations! One paper on Human-Object Contact Detection has been accepted by ICCV 2025 (CCF A)!
+- *2025.11*: &nbsp;🎉🎉 Congratulations! Two papers have been accepted by <strong style="color: red;">AAAI 2026 (CCF A)</strong>!
+- *2025.06*: &nbsp;🎉🎉 Congratulations! One paper on Human-Object Contact Detection has been accepted by <strong style="color: red;">ICCV 2025 (CCF A)</strong>!
 - *2025.02*: &nbsp;🎊🎊 Congratulations! Served as Workshop Chair for <strong style="color: red;">ICIVIS 2025</strong>!
-- *2024.12*: &nbsp;🎉🎉 Congratulations! One paper on Human-Object Contact Detection has been accepted by AAAI 2025 as <strong style="color: red;">Oral</strong> presentation (CCF A)!
-- *2024.12*: &nbsp;🎉🎉 Congratulations! One paper have been accepted by AAAI 2025 (CCF A)!
+- *2024.12*: &nbsp;🎉🎉 Congratulations! One paper on Human-Object Contact Detection has been accepted by <strong style="color: red;">AAAI 2025 as <strong style="color: purple;">Oral</strong> presentation (CCF A)</strong>!
+- *2024.12*: &nbsp;🎉🎉 Congratulations! One paper have been accepted by <strong style="color: red;">AAAI 2025 (CCF A)</strong>!
 - *2024.10*: &nbsp;🏆🏆 Congratulations! Awarded <strong style="color: red;">National Scholarship</strong> and <strong style="color: red;">SCUT Presidential Scholarship</strong>!
-- *2024.08*: &nbsp;🎉🎉 Congratulations! One paper has been selected as Best Paper Award at ICCBD+AI 2024!
-- *2024.08*: &nbsp;🎉🎉 Congratulations! One paper has been selected as Best Paper Award at ICCVIT 2024!
-- *2024.03*: &nbsp;🎉🎉 Congratulations! One paper "TED-Net" has been accepted by IEEE TCSVT (SCI Q1 Top)!
+- *2024.08*: &nbsp;🎉🎉 Congratulations! One paper has been selected as Best Paper Award at <strong style="color: red;">ICCBD+AI 2024</strong>!
+- *2024.08*: &nbsp;🎉🎉 Congratulations! One paper has been selected as Best Paper Award at <strong style="color: red;">ICCVIT 2024</strong>!
+- *2024.03*: &nbsp;🎉🎉 Congratulations! One paper "TED-Net" has been accepted by <strong style="color: red;">IEEE TCSVT (SCI Q1 Top)</strong>!
 - *2023.10*: &nbsp;🏆🏆 Congratulations! Awarded <strong style="color: red;">SCUT Presidential Scholarship</strong>!
 - *2022.10*: &nbsp;🏆🏆 Congratulations! Awarded <strong style="color: red;">SCUT Presidential Scholarship</strong>!
 - *2022.09*: &nbsp;🎓🎓 Started my Ph.D. journey at the School of Future Technology, South China University of Technology!
 - *2022.06*: &nbsp;🎉🎉 Congratulations! Successfully obtained my Master's degree from Hebei University!
-- *2021.07*: &nbsp;🎉🎉 Congratulations! One paper has been accepted by Applied Intelligence (JCR Q1)!
+- *2021.07*: &nbsp;🎉🎉 Congratulations! One paper has been accepted by <strong style="color: red;">Applied Intelligence (JCR Q1)</strong>!
 
 # 📝 Publications 
 
