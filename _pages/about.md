@@ -33,6 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Congratulations! One papers have been accepted by <strong style="color: red;">IEEE Internet of Things Journal (IoT) (SCI Q1 Top)</strong>!
 - *2026.01*: &nbsp;🎉🎉 Congratulations! One papers have been accepted by <strong style="color: red;">ICASSP 2026 (CCF B)</strong>!
 - *2025.11*: &nbsp;🙋🙋 Congratulations! Selected as a volunteer for <strong style="color: red;">AAAI 2026</strong>!
 - *2025.11*: &nbsp;🎉🎉 Congratulations! Two papers have been accepted by <strong style="color: red;">AAAI 2026 (CCF A)</strong>!
@@ -53,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <!-- IoT 2026 - AgentHOI -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AgentHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT</div><img src='images/AgentHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AgentHOI: Towards Multi-Agent Collaborative Human-Object Interaction Detection](https://ieeexplore.ieee.org/abstract/document/11488251/)
