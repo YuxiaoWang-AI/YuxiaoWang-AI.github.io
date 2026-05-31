@@ -52,13 +52,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- IoT 2026 - AgentHOI -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AgentHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AgentHOI: Towards Multi-Agent Collaborative Human-Object Interaction Detection](https://ieeexplore.ieee.org/abstract/document/11488251/)
+
+**Yuxiao Wang**, Yu Lei, Qi Liu*
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11488251/) | [**Code**](https://github.com/YuxiaoWang-AI/AgentHOI)
+-  AgentHOI is a multi-agent debate framework for HOI detection, using six specialized agents (HP, VAA, SEA, PAA, DM, CA) in a "hypothesis-debate-consensus" pipeline to analyze interactions from visual, semantic, and physical perspectives.
+-  It achieves 13.26 mAP on HICO-DET (competitive with early two-stage methods) with strong interpretability and zero-shot generalization, though it lags behind fully supervised SOTA models.
+</div>
+</div>
+
 <!-- AAAI 2026 - What-Meets-Where -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PaIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What-Meets-Where: Unified Learning of Action and Contact Localization in Images](https://arxiv.org/pdf/2508.09428)
 
-**Yuxiao Wang**, Yi Lei, Wenlu Liang, Wentao Xue, Zhen Wei, Nan Zhuang, Qiang Liu*
+**Yuxiao Wang**, Yu Lei, Wolin Liang, Weiying Xue, Zhenao Wei, Nan Zhuang, Qi Liu*
 
 [**Paper**](https://arxiv.org/pdf/2508.09428) | [**Code**](https://github.com/YuxiaoWang-AI/PaIR)
 -  we present PaIR (Partaware Interaction Representation) **dataset**, a comprehensive dataset
@@ -73,7 +87,7 @@ containing 13,979 images that encompass 654 actions, 80 object categories, and 1
 
 [QueryCraft: Transformer-Guided Query Initialization for Enhanced Human-Object Interaction Detection](https://arxiv.org/pdf/2508.08590)
 
-**Yuxiao Wang†**, Wenlu Liang†, Yi Lei, Wentao Xue, Nan Zhuang, Qiang Liu*
+**Yuxiao Wang†**, Wolin Liang†, Yu Lei, Weiying Xue, Nan Zhuang, Qi Liu*
 
 [**Paper**](https://arxiv.org/pdf/2508.08590) | [**Code**](https://github.com/YuxiaoWang-AI/QueryCraft)
 - We propose QueryCraft, a transformer-guided query initialization method for enhanced human-object interaction detection.
@@ -86,7 +100,7 @@ containing 13,979 images that encompass 654 actions, 80 object categories, and 1
 
 [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630)
 
-**Yuxiao Wang**, Yi Lei, Zhen Wei, Wentao Xue, Nan Zhuang, Qiang Liu*
+**Yuxiao Wang**, Yu Lei, Zhenao Wei, Weiying Xue, Nan Zhuang, Qi Liu*
 
 [**Paper**](https://arxiv.org/pdf/2507.01630) | [**Code**](https://github.com/YuxiaoWang-AI/P3HOT)
 - We introduce prompt guidance and human proximal perception for human-object contact prediction, significantly improving detection accuracy.
@@ -99,7 +113,7 @@ containing 13,979 images that encompass 654 actions, 80 object categories, and 1
 
 [Precision-Enhanced Human-Object Contact Detection via Depth-Aware Perspective Interaction and Object Texture Restoration](https://ojs.aaai.org/index.php/AAAI/article/view/32883)
 
-**Yuxiao Wang**, Wanying Neng, Zhen Wei, Yi Lei, Wentao Xue, Nan Zhuang, Yanwei Xu, Xin Jiang, Qi Liu*
+**Yuxiao Wang**, Wenpeng Neng, Zhenao Wei, Yu Lei, Weiying Xue, Nan Zhuang, Yanwei Xu, Xin Jiang, Qi Liu*
 
 [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32883) | [**Code**](https://github.com/YuxiaoWang-AI/PIHOT)
 - We propose a depth-aware framework for human-object contact detection, achieving state-of-the-art performance on multiple benchmarks.
@@ -127,7 +141,7 @@ Nan Zhuang, Boyu Cao, Yi Yang, Jing Xu, Mingda Xu, **Yuxiao Wang**, Qi Liu*
 
 [A Review of Human-Object Interaction Detection](https://arxiv.org/pdf/2408.10641)
 
-**Yuxiao Wang**, Yi Lei, Linbo Cui, Wentao Xue, Qiang Liu, Zhen Wei*
+**Yuxiao Wang**, Yu Lei, Li Cui, Weiying Xue, Qi Liu, Zhenao Wei*
 
 [**Paper**](https://arxiv.org/pdf/2408.10641)
 - We provide a comprehensive review of human-object interaction detection methods, covering datasets, evaluation metrics, and future directions.
@@ -140,7 +154,7 @@ Nan Zhuang, Boyu Cao, Yi Yang, Jing Xu, Mingda Xu, **Yuxiao Wang**, Qi Liu*
 
 [DeHOT: Reconstructing Pseudo-3D Scenes for Human-Object Contact Detection](https://drliuqi.github.io/files/publications/DeHOT.pdf)
 
-**Yuxiao Wang**, Yi Lei, Qianxi Xiong, Wentao Xue, Qiang Liu, Zhen Wei*
+**Yuxiao Wang**, Yu Lei, Qiwei Xiong, Weiying Xue, Qi Liu, Zhenao Wei*
 
 🏆 **Best Paper Award**
 
@@ -155,7 +169,7 @@ Nan Zhuang, Boyu Cao, Yi Yang, Jing Xu, Mingda Xu, **Yuxiao Wang**, Qi Liu*
 
 [TED-Net: Dispersal Attention for Perceiving Interaction Region in Indirectly-Contact HOI Detection](https://ieeexplore.ieee.org/abstract/document/10415065)
 
-**Yuxiao Wang**, Qiang Liu*, Yi Lei
+**Yuxiao Wang**, Qi Liu*, Yu Lei
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10415065) | [**Code**](https://github.com/YuxiaoWang-AI/TED-Net)
 - We propose TED-Net with dispersal attention mechanism for indirectly-contact human-object interaction detection.
@@ -168,7 +182,7 @@ Nan Zhuang, Boyu Cao, Yi Yang, Jing Xu, Mingda Xu, **Yuxiao Wang**, Qi Liu*
 
 [A General Multi-Scale Image Classification Based on Shared Conversion Matrix Routing](https://link.springer.com/article/10.1007/s10489-021-02558-1)
 
-**Yuxiao Wang**, Kang Li*, Yi Lei
+**Yuxiao Wang**, Kai Li*, Yu Lei
 
 Applied Intelligence, 2022, 52(3): 3249-3265. **(SCI Q1)**
 
@@ -198,7 +212,7 @@ Applied Intelligence, 2022, 52(3): 3249-3265. **(SCI Q1)**
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. in Information and Communication Engineering, School of Future Technology, South China University of Technology, Guangzhou, China.
   - Research Interests: Multimodal Learning, Human-Object Interaction Detection, Human-Object Contact Detection, Vision-Language Models (VLM)
-  - Supervisor: Prof. Qiang Liu
+  - Supervisor: Prof. Qi Liu
 - *2019.09 - 2022.06*, M.S. in Computer Technology, School of Cyber Security and Computer, Hebei University, Baoding, China.
   - Research Interests: Computer Vision, Image Classification, Semantic Segmentation
 
